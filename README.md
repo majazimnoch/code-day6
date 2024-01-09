@@ -1,6 +1,6 @@
 # Color picker
 ## Intro
-This is the sexithg project of my 30-day coding challenge. The project includes following tech stuff: HTML, CSS, JavaScript.
+This is the sixth project of my 30-day coding challenge. The project includes following tech stuff: HTML, CSS, JavaScript.
 
 ## Idea
 The goal was to make a color picker. After clicking the botton, we get a random color. The background is changing to the new color and we also see the # code which represents the particular color.
